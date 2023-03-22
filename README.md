@@ -1,2 +1,2 @@
 # UTSPAM-120140024
-![plot](./Screenshots/1. SplashScreen.jpg)
+![alt text](https://raw.githubusercontent.com/afahrizal/UTSPAM-120140024/main/Screenshots/1.SplashScreen.jpg)
